@@ -17,12 +17,12 @@ Alunos:
 Exemplo dado em sala
 
 ## Teste 2
-### Execução 1
+**Execução 1**
 Média das médias de execução: 10000 iterações e (10, 10) camadas é igual a:  7.53
 Média dos desvios padrões de execução: 10000 iterações e (10, 10) camadas: é igual a:   0.01
-### Execução 2
+**Execução 2**
 Média das médias de execução: 10000 iterações e (10, 10) camadas é igual a:  7.51
 Média dos desvios padrões de execução: 10000 iterações e (10, 10) camadas: é igual a:   0.02
-### Execução 3
+**Execução 3**
 Média das médias de execução: 10000 iterações e (10, 10) camadas é igual a:  7.53
 Média dos desvios padrões de execução: 10000 iterações e (10, 10) camadas: é igual a:   0.01
