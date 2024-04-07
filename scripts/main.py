@@ -57,5 +57,5 @@ neuro=10
 camadas=3
 
 
-print(f'Média das médias de execução: {iteracoes} iterações, {neuro} Neurônios e {camadas} camadas é igual a: '" %.2f" %np.average(media))
-print(f'Média dos desvios padrões de execução: {iteracoes} iterações, {neuro} Neurônios e {camadas} camadas: é igual a: '"  %.2f" %np.std(desvio))
+print(f'Média das médias de execução: {iteracoes} iterações, {neuro} Neurônios e {camadas} Camadas é igual a:'" %.2f" %np.average(media))
+print(f'Média dos desvios padrões de execução: {iteracoes} iterações, {neuro} Neurônios e {camadas} Camadas: é igual a:'" %.2f" %np.std(desvio))
