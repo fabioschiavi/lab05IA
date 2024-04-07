@@ -3,8 +3,8 @@
 ## Laboratório 5 - RNA Aproximador de Funções
 
 Alunos:
-- Fabio Augusto Schiavi Morpanini
-- Felipe de Campos Oka
+- Fabio Augusto Schiavi Morpanini | RA: 22.121.084-1
+- Felipe de Campos Oka            | RA: 22.121.001-6
 
 ## Valores de execução utilzados
 | Execução | Neurônios | Camadas | Iterações |
@@ -12,6 +12,8 @@ Alunos:
 | 1        | 10        | 20      | 20000     |
 | 2        | 10        | 3       | 23000     |
 | 3        | 10        | 35      | 1500      |
+
+**Durante o experimento, foi definido os valores para cada execução, portanto alguns gráficos podem apresentar incoerência**
 
 ## Teste 1
 Exemplo dado em sala
@@ -91,7 +93,9 @@ Média dos desvios padrões de execução: 10000 iterações e (10, 10) camadas:
 ## Teste 5
 **Execução 1 - Converge**
 
-MMédia das médias de execução: 10000 iterações e (10, 10) camadas é igual a:  3.22
+**A mais satisfatória**
+
+Média das médias de execução: 10000 iterações e (10, 10) camadas é igual a:  3.22
 Média dos desvios padrões de execução: 10000 iterações e (10, 10) camadas: é igual a:   5.44
 <div align="center">
 <img src="https://github.com/fabioschiavi/lab05IA/assets/92650933/09ed0831-d66a-4e7d-b892-031a717f629e" width="750px" />
