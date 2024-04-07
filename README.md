@@ -6,12 +6,15 @@ Alunos:
 - Fabio Augusto Schiavi Morpanini
 - Felipe de Campos Oka
 
-## Teste 1
-Exemplo dado em sala
-
-## Teste 2
+## Valores de execução utilzados
 | Execução | Neurônios | Camadas | Iterações |
 |----------|-----------|---------|-----------|
 | 1        | 10        | 20      | 20000     |
 | 2        | 10        | 3       | 23000     |
 | 3        | 10        | 35      | 1500      |
+
+## Teste 1
+Exemplo dado em sala
+
+## Teste 2
+
