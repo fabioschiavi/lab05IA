@@ -52,8 +52,10 @@ for i in range(10):
     plt.show()
 
 
-iteracoes=10000
-camadas=(10,10)
+iteracoes=23000
+neuro=10
+camadas=3
 
-print(f'Média das médias de execução: {iteracoes} iterações e {camadas} camadas é igual a: '" %.2f" %np.average(media))
-print(f'Média dos desvios padrões de execução: {iteracoes} iterações e {camadas} camadas: é igual a: '"  %.2f" %np.std(desvio))
+
+print(f'Média das médias de execução: {iteracoes} iterações, {neuro} Neurônios e {camadas} camadas é igual a: '" %.2f" %np.average(media))
+print(f'Média dos desvios padrões de execução: {iteracoes} iterações, {neuro} Neurônios e {camadas} camadas: é igual a: '"  %.2f" %np.std(desvio))
