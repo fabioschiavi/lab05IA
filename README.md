@@ -42,7 +42,7 @@ Média dos desvios padrões de execução: 10000 iterações e (10, 10) camadas:
 </div>
 
 ## Teste 3
-**Execução 1 -Converge**
+**Execução 1 - Converge**
 
 Média das médias de execução: 10000 iterações e (10, 10) camadas é igual a:  -17.97
 Média dos desvios padrões de execução: 10000 iterações e (10, 10) camadas: é igual a:   0.03
@@ -67,7 +67,7 @@ Média dos desvios padrões de execução: 10000 iterações e (10, 10) camadas:
 </div>
 
 ## Teste 4
-**Execução 1 -Converge**
+**Execução 1 - Converge**
 
 Média das médias de execução: 10000 iterações e (10, 10) camadas é igual a:  17.78
 Média dos desvios padrões de execução: 10000 iterações e (10, 10) camadas: é igual a:   0.04
@@ -89,7 +89,7 @@ Média das médias de execução: 10000 iterações e (10, 10) camadas é igual 
 Média dos desvios padrões de execução: 10000 iterações e (10, 10) camadas: é igual a:   7.36
 
 ## Teste 5
-**Execução 1 -Converge**
+**Execução 1 - Converge**
 
 MMédia das médias de execução: 10000 iterações e (10, 10) camadas é igual a:  3.22
 Média dos desvios padrões de execução: 10000 iterações e (10, 10) camadas: é igual a:   5.44
