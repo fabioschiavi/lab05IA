@@ -3,7 +3,7 @@
 ## Laboratório 5 - RNA Aproximador de Funções
 
 Alunos:
-- Fabio Augusto Schiavi Morpanini | RA: 22.121.084-1
+- Fabio Augusto Schiavi Morpanini | RA: 22.121.094-1
 - Felipe de Campos Oka            | RA: 22.121.001-6
 
 ## Valores de execução utilzados
